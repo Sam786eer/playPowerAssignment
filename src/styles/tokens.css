@@ -1,0 +1,26 @@
+:root {
+  --ink: #222222;
+  --muted: #6a6a6a;
+  --line: #dddddd;
+  --line-soft: #ebebeb;
+  --surface: #ffffff;
+  --surface-alt: #f7f7f7;
+  --brand: #ff385c;
+  --brand-deep: #e00b41;
+  --focus: #222222;
+
+  --font: 'Airbnb Cereal VF', 'Circular', 'Inter Variable', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --container: 1120px;
+  --gutter: 40px;
+  --radius-photo: 12px;
+  --radius-card: 12px;
+
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+  --dur-fast: 150ms;
+  --dur: 250ms;
+
+  --z-header: 10;
+  --z-tour: 100;
+  --z-lightbox: 200;
+}
